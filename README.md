@@ -1,16 +1,52 @@
-### Hi there 👋
 
-<!--
-**realshubhambelel/realshubhambelel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## It's Shubham Belel, here.
 
-Here are some ideas to get you started:
+![App Screenshot](https://media.discordapp.net/attachments/892319747545378852/894869091947536454/Screenshot_2021_1005_141928.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+### My Projects (I'm a beginner)
+
+- [Topdown reaction role](https://dsc.gg/topdownrole)
+
+  
+
+## 🚀 About Me
+
+I'm a programmer, and a **bot-developer** on Discord too.  My hobby is Coding, and I've been creating my projects on JavaScript.
+
+  
+
+## Contract
+
+For contract, you can message me on Discord, and Instagram. 
+
+- [Discord](https://dsc.gg/dimensionshubham)
+
+ - [Instagram](https://instagram.com/realshubhambelel)
+
+ 
+
+## Notice
+
+```javascript
+
+Please don't steal my codes, from my repos.
+
+```
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
