@@ -1,7 +1,7 @@
 
 ## It's Shubham Belel, here.
 
-![App Screenshot](https://media.discordapp.net/attachments/892319747545378852/894945343651860480/image_search_1633441981531.png)
+![App Screenshot](https://media.discordapp.net/attachments/892319747545378852/894977127710081054/Screenshot_2021_1005_212844.jpg)
 
  
 
